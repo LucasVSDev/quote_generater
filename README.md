@@ -3,9 +3,7 @@
 Código fonte do projeto desenvolvido durante uma aula disponível no [Github](https://github.com/adrianhajdin/advice_app) que consiste em uma gerador de citação aleatória
 Este projeto utiliza o [Create React App](https://github.com/facebook/create-react-app)
 
-<p align="center">
-  ![imagem](https://user-images.githubusercontent.com/38290618/116907194-a2c55a00-ac17-11eb-9af8-a01092629e44.gif)
-</p>
+![imagem](https://user-images.githubusercontent.com/38290618/116907194-a2c55a00-ac17-11eb-9af8-a01092629e44.gif)
 
 ## Projeto final
 
