@@ -4,7 +4,7 @@ Código fonte do projeto desenvolvido durante uma aula disponível no [Github](h
 Este projeto utiliza o [Create React App](https://github.com/facebook/create-react-app)
 
 <p align="center">
-<img width="640" height="320" rsc="https://user-images.githubusercontent.com/38290618/116907194-a2c55a00-ac17-11eb-9af8-a01092629e44.gif" >
+https://user-images.githubusercontent.com/38290618/116907194-a2c55a00-ac17-11eb-9af8-a01092629e44.gif
 </p>
 
 ## Projeto final
